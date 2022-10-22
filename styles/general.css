@@ -31,6 +31,9 @@ main .main-container {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  box-shadow: 6px 23px 19px -4px rgba(135, 135, 135, 0.52);
+  -webkit-box-shadow: 6px 23px 19px -4px rgba(135, 135, 135, 0.52);
+  -moz-box-shadow: 6px 23px 19px -4px rgba(135, 135, 135, 0.52);
 }
 main .main-container .img-card img {
   width: 100%;
